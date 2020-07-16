@@ -1,6 +1,6 @@
 # Web-Business
 
-A Simple Web Index Page To Boost Development.
+A Simple Responsive grid based layout for Index Page To Boost Development.
 
 ![Web Dev](/img/grid.png)
 ![](/img/grid1.png)
